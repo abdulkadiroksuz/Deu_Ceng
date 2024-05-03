@@ -1,2 +1,2 @@
 # MAN simulation via Cisco Packet Tracer
-for detailed info => report.docx
+for detailed overview => report.docx
